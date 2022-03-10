@@ -1,1 +1,1 @@
-hrModule
+hr-module
